@@ -1,0 +1,6 @@
+Firs name: Dmitry,
+Last name: Bondarenko,
+Patronymic: Anatolevich,
+Age: 33,
+Number of pets: 1,
+Desired salary: 350
