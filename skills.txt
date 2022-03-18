@@ -1,0 +1,2 @@
+Testing theory: bug report, test documentation, SDLC, STLS;
+Skills of working whith: Git, bash, SQL, Fidler, Postman

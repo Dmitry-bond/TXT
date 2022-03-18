@@ -1,0 +1,5 @@
+Favorite movie: 1+1,
+Favorite TV series: Friends,
+Favorite food: Borsch,
+Favorit time of the year: summer,
+Country I would like to visit: Iceland
