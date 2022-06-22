@@ -60,11 +60,11 @@
   Esc
   :wq
 ```
- 11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT
+ 11. Создать файл skills.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT
  ```
-	touch sklls.txt
+	touch skills.txt
 	
-	vim sklls.txt
+	vim skills.txt
 	i
 	
    Testing theory: bug report, test documentation, SDLC, STLS;
@@ -75,8 +75,8 @@
 ```
  12. Отправить сразу 2 файла на внешний репозиторий.
  ```
-	git add preferences.txt sklls.txt
-	git commit -m "add preferences.txt sklls.txt"
+	git add preferences.txt skills.txt
+	git commit -m "add preferences.txt skills.txt"
 	git push
  ``` 
  13. На веб интерфейсе создать файл bug_report.txt.
