@@ -1,4 +1,7 @@
-Summary: Summary,
-Description: Description,
-Actual result: Actual result,
+ID: ID
+Summary: Summary
+Steps to reproduce: Steps to reproduce
+Actual result: Actual result
 Expected result: Expected result
+Severity: Блокирующий
+Priority: Высокий
